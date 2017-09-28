@@ -1,5 +1,7 @@
 # CLRollLabel
-单行显示文字，会滚动的Label
+1 单行显示文字，会滚动的Label
+2 collectionview筛选样式
+3 tableview头部加载图片，下拉放大
 
 <img src="https://raw.githubusercontent.com/ClaudeLi/CLRollLabel/master/Untitled.gif" width="320"><br/>
 
